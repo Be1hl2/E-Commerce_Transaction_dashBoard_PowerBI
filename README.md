@@ -10,6 +10,7 @@ Total Sales Amount: 662K                Total Quantity Sold: 9K                 
 📦 Product Insights:                   Top Category by Quantity: Office Supplies    Most Profitable Subcategory: Bookcases     Other High-Profit Subcategories: Phones, Copiers
                                                                      (46%)
 
+<img width="1004" height="543" alt="image" src="https://github.com/user-attachments/assets/67eca40a-1852-4e35-8899-ef03a6593365" />
 
 
 
